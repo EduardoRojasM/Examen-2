@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: user
+Build-Jdk: 15.0.2
+Implementation-Title: Spring Boot Blank Project (from https://github.com
+ /making/spring-boot-blank)
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.makotojava.learn
+Implementation-Vendor: Pivotal Software, Inc.
+Main-Class: com.makotojava.learn.Control.App
+Created-By: Maven Integration for Eclipse
+
